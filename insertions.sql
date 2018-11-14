@@ -1,0 +1,3 @@
+INSERT INTO `airplanesdb`.`airplanes` (`manufacturer`, `model`, `city`, `registrationNumber`) VALUES ('Boeing', '737', 'Seattle', '6000');
+INSERT INTO `airplanesdb`.`airplanes` (`manufacturer`, `model`, `city`, `registrationNumber`) VALUES ('Textron', '301', 'Denver', '2312');
+INSERT INTO `airplanesdb`.`airplanes` (`manufacturer`, `model`, `city`, `registrationNumber`) VALUES ('AARCORP', '123', 'Melbourne', '5675');
