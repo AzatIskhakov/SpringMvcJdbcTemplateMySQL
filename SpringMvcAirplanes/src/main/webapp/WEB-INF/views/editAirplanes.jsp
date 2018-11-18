@@ -12,7 +12,7 @@
 <form:form method="post" action="/SpringMvcAirplanes/editAndSave">
 <table>
 	<tr>
-		<td>Car ID:</td>
+		<td>Airpalne ID:</td>
 		<td><form:input path="airplaneId" readonly="true"/></td>
 	</tr>
 	<tr>
